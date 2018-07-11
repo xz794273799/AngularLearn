@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**目录**  
 
 - [欢迎来到朱回的Angular4+学习之旅](#%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%9C%B1%E5%9B%9E%E7%9A%84angular4%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%97%85)
   - [前言](#%E5%89%8D%E8%A8%80)
